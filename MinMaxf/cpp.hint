@@ -1,0 +1,2 @@
+﻿#define MINMAXF_API __declspec(dllexport)
+#define MINMAXF_API __declspec(dllimport)
